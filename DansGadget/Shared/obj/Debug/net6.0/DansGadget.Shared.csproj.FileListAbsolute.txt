@@ -1,0 +1,12 @@
+C:\Users\GGPC\Documents\Programming\ForGit\DansGadget\DansGadget\Shared\bin\Debug\net6.0\DansGadget.Shared.deps.json
+C:\Users\GGPC\Documents\Programming\ForGit\DansGadget\DansGadget\Shared\bin\Debug\net6.0\DansGadget.Shared.dll
+C:\Users\GGPC\Documents\Programming\ForGit\DansGadget\DansGadget\Shared\bin\Debug\net6.0\DansGadget.Shared.pdb
+C:\Users\GGPC\Documents\Programming\ForGit\DansGadget\DansGadget\Shared\obj\Debug\net6.0\DansGadget.Shared.csproj.AssemblyReference.cache
+C:\Users\GGPC\Documents\Programming\ForGit\DansGadget\DansGadget\Shared\obj\Debug\net6.0\DansGadget.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GGPC\Documents\Programming\ForGit\DansGadget\DansGadget\Shared\obj\Debug\net6.0\DansGadget.Shared.AssemblyInfoInputs.cache
+C:\Users\GGPC\Documents\Programming\ForGit\DansGadget\DansGadget\Shared\obj\Debug\net6.0\DansGadget.Shared.AssemblyInfo.cs
+C:\Users\GGPC\Documents\Programming\ForGit\DansGadget\DansGadget\Shared\obj\Debug\net6.0\DansGadget.Shared.csproj.CoreCompileInputs.cache
+C:\Users\GGPC\Documents\Programming\ForGit\DansGadget\DansGadget\Shared\obj\Debug\net6.0\DansGadget.Shared.dll
+C:\Users\GGPC\Documents\Programming\ForGit\DansGadget\DansGadget\Shared\obj\Debug\net6.0\refint\DansGadget.Shared.dll
+C:\Users\GGPC\Documents\Programming\ForGit\DansGadget\DansGadget\Shared\obj\Debug\net6.0\DansGadget.Shared.pdb
+C:\Users\GGPC\Documents\Programming\ForGit\DansGadget\DansGadget\Shared\obj\Debug\net6.0\ref\DansGadget.Shared.dll
